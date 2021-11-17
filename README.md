@@ -19,6 +19,10 @@ Online shop searcher is a small Python program used to search items on five onli
  
 
 ## Update
+
+
+
+## NOTE
 1. Amazon will be added into future version.
 
 
