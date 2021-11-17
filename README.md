@@ -15,15 +15,17 @@ Online shop searcher is a small Python program used to search items on five onli
 1. Run "python3 Online_shop.py
 2. Enter item you want to search. Numbers of items being displayed and price range are optional.
 3. After search results shown on the right hand side, double clicking the item you want to browse will open the URL of the item.
+
  
  
 
 ## Update
-
+1. 2021/11/17: upload online_shopper.spec
 
 
 ## NOTE
-1. Amazon will be added into future version.
+1. Run "pyinstaller online_shopper.spec" to pack py file into executable small program.
+2. Amazon will be added into future version.
 
 
 
