@@ -1,4 +1,4 @@
-# Online shopper v.1.0
+# Online shopper v.1.0 (2021/11/14)
 
 Online shop searcher is a small Python program used to search items on five online shop.
 * 蝦皮購物 (https://shopee.tw/?gclid=Cj0KCQiA4b2MBhD2ARIsAIrcB-Sdv1gnbVGgDRKSwyM4sgo8JWv4usoQU2qndKhYNKY284qI5PLfsncaAsSaEALw_wcB)
