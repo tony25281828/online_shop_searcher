@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['Online_shop.py'],
-             pathex=['/Users/tony/Desktop/Online_shop'],
+             pathex=['~/Desktop/Online_shop'],
              binaries=[],
              datas=[('assets/*.png', 'assets')],
              hiddenimports=[],
