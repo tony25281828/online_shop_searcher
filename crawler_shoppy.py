@@ -76,8 +76,3 @@ def getData(num_searched, item_searched, lower_limit, upper_limit, results):
 
 
 
-
-
-
-
-
